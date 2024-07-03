@@ -1,0 +1,4 @@
+name = "ShaderAbstractions"
+uuid = "11a8a6d7-fa7a-4ad6-b317-1d8e39379b1d"
+authors = ["James Schloss <jrs.schloss@gmail.com>"]
+version = "0.0.1"
